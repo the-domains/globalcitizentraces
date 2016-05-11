@@ -1,0 +1,30 @@
+---
+description: 'byNatalie Bertsch&Collective Thoughts'
+datePublished: '2016-05-11T08:40:04.933Z'
+inNav: false
+inLanguage: null
+author: []
+hasPage: true
+authors: []
+title: 'Global Citizen Traces A tale of fast lives, new beginnings and home by modern nomads'
+publisher:
+  favicon: null
+  name: null
+  domain: null
+  url: null
+keywords: []
+dateModified: '2016-05-11T08:32:31.152Z'
+inFeed: true
+starred: false
+sourcePath: _posts/2016-05-11-global-citizen-traces-a-tale-of-fast-lives-new-beginnings-a.md
+url: global-citizen-traces-a-tale-of-fast-lives-new-beginnings-a/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fe718a-e0e8-465e-8ec3-747f82eb00b7.jpg)
+
+## **Global Citizen Traces A tale of fast lives, new beginnings and home by modern nomads**
+
+_by****Natalie Bertsch&Collective Thoughts_
+
+Generation Mobile. Moving beyond national borders. Beyond the defined you&me. Mobile roots. Wings rather. A quest for life gone global. Globalization has multiplied choices of places to work and people to love. It renders personal decisions more complex, and at the same time increases competition for these choices. Trading one city for another, global citizens vote with their feet. Does this make them political actors? It asks cities to provide job and research opportunities, urban infrastructure, and life quality to attract and retain the influx of highly skilled professionals and academics. Does the war for talent lead to greater accountability? And to whom: the old or new residents? It also means exclusion for those lacking the skills in demand. It leads to discrimination and fear. Redefinition of citizenship. Gentrification of urban space. Meeting and clashing of alien values and cultures. Irreversible changes to the societies impacted. And as a result, cities and its citizens tend to oscillate between rebuttal and total embrace of the global. The book attempts to provide a snapshot of the current global citizen footprint. What is motivating global citizens? What are the constraints? What is the impact on the places touched and the one's left behind? And how do global citizens change during their journeys? Chapter 1 asks global citizens about their identity. In Glimpses an Iranian voice identifies as a global nomad. Contrasted to a sedentary lifestyle, mobility is presented as a permanent choice and identity. On the other hand, identity may also be created as an antidote to a global life. Dear Grand-daughter narrates the story of my grandmother and how living a global life shattered and re-shaped her identity. The chapter meets Malaya, a fictional voice, growing up across global cities throughout the book. Under my skin explores if global city experience is paramount enough to be immortalized in the form of a tattoo. Citizenship 2.0\. analyzes global citizen (be they expat workers or jihadis) joining communities of shared experiences and values outside of their home countries. The chapter concludes with VH and how her complex global identity inspires and shapes her lifestyle brand. Chapter 2 discovers the joy and challenges of loving globally. Combining relationships and dual careers is a constant topic among the global citizen tribe. Chronicles from a Decision Art Work concludes there are no easy decisions and balancing love and a global career is more of a piece of art than an exact science. LOV follows Ophelia and Vikesh to London. Their love takes an important turn when the city is hit by the global financial crisis. Of Lightness And Clouds tells the story of a global couple struggling to live their love across Yaounde, Madrid and New York City. Chapter 3 reflects on the interactions between global and resident citizen. Is there true interaction or only living alongside rather than with each other? Do perceptions and opinions clash or do they spark a dialogue opening both parties to a more differentiated view of the world? In To live where Life is precarious reflects how the world of humanitarian aid workers collides with people facing the most adverse and challenging situation during and after civil wars. Apero in Zurich explores the perfidy of bias and discrimination through a case study on German integration in Zurich. Celebrating Eid-al-Fitr describes how one global citizen attends a religious celebration in the South of the Philippines as a mean to immerse herself deeper in the local culture. A possible clash of perceptions on animal treatment in China is explored in the photo series Sad Fish in China. The peculiar Life and Thoughts of Roshni -- the mighty Elephant is a picture story on embracing the other, the new and the strange. Chapter 4 analyzes the impact global citizen movement has on political accountability, civil rights and urban development. Voting with their Feet analyzes if global citizen challenge traditional political accountability mechanism in contemporary democracies. Good-bye and Arrividerci! Yours faithfully, the Young assesses how Europe is struggling with keeping its young talent. Global City Magnet analyzes how conservative societies face difficulties in keeping gay talent since they often choose to migrate to global cities. Sub-urban living: Reflections on Urbanism in Manila describes global citizen shape demand for sub-urban residences in the city. Low-skilled migrants often move to global cities as a result of economic necessity rather than choice. The impact on their lives and families is described in Exported from the Philippines.
