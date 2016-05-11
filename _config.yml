@@ -1,7 +1,11 @@
-name: globalcitizentraces
-favicon: null
-layout_spectrum: 0.74173
-typography_spectrum: 0.4986759540624917
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,27 +18,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+purpose: []
+color:
+  saturation: 0.3533333
+  brandStrength: 0.4949875
+  lightness: 0.8978696
+  brandColors:
+    - '#EBEAE6'
+    - '#1D2124'
+    - '#C1C4C0'
+    - '#949A96'
+    - '#49524E'
+  rhythmicContrast: 1
+typography_spectrum: 0.4986759540624917
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.1241611130535603
-  lightness: 0.7558214152231812
-  saturation: 0.3533332969527692
-  rhythmicContrast: 0.7932712726760656
-purpose: []
+  domain: null
+layout_spectrum: 0.966792
+favicon: null
+name: globalcitizentraces
