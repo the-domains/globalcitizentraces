@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: globalcitizentraces
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#49524E'
   rhythmicContrast: 1
 typography_spectrum: 0.4986759540624917
+layout_spectrum: 0.7800752
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.966792
-favicon: null
-name: globalcitizentraces
+analytics:
+  twitter: null
+  google: null
+  facebook: null
