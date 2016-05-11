@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[globalcitizentraces]]></title>
+        <description><![CDATA[globalcitizentraces]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 08:40:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global Citizen Traces A tale of fast lives, new beginnings and home by modern nomads]]></title>
+            <description><![CDATA[<article><h1>Global Citizen Traces A tale of fast lives, new beginnings and home by modern nomads</h1><p>byNatalie Bertsch&Collective Thoughts</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fe718a-e0e8-465e-8ec3-747f82eb00b7.jpg"></article>]]></description>
+            <link>undefinedglobal-citizen-traces-a-tale-of-fast-lives-new-beginnings-a/index.html</link>
+            <guid isPermaLink="false">5890ddf4-cf6d-40b2-b3da-59a3d8f0bc44</guid>
+            <pubDate>Wed, 11 May 2016 08:40:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
